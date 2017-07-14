@@ -1,5 +1,5 @@
 # DisneyRewardsProject
-Java program that simulates a Disney drink rewards program
+Java program that simulates a Disney drink rewards program and keeps track of regular customers and preferred customers in addition to their overall balances and rewards status.
 
 **Please see specification document for full description**
 
