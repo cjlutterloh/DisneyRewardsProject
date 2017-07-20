@@ -3,6 +3,6 @@ Java program that simulates a Disney drink rewards program and keeps track of re
 
 **Please see specification document for full description**
 
-One of the primary aims of the project was to learn the inefficiency and pain of resizing arrays instead of using some sort of list.
+One of the primary aims of the project was to learn the inefficiency and pain of resizing arrays instead of using linked lists or array lists.
 
-ALl .dat files are examples of possible input
+All .dat files are examples of possible input
