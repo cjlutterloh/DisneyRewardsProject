@@ -1,5 +1,5 @@
-//Carson Lutterloh
-//cjl150530
+//cjlutterloh
+//CS 2336
 
 /*
 Project Notes:
